@@ -1,3 +1,6 @@
+#THIS REPO IS DEPRECATED
+Please use [https://github.com/androidvirtualpen/virtualpen](https://github.com/androidvirtualpen/virtualpen)
+
 # Android Virtual Pen
 
 Android Virtual Pen allows to send pen input data from your android device to a pc host where it emulates a virtual pen.
